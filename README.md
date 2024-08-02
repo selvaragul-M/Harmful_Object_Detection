@@ -49,3 +49,6 @@ The script consists of the following main parts:
 - Screenshots are saved in the `screenshots` directory with filenames like `screenshot_1.png`, `screenshot_2.png`, etc.
 
 ![screenshot_73](https://github.com/selvaragul-M/Harmful_Object_Detection/assets/156414212/7ccbb0b3-4a81-4c32-9924-5613170cb6ab)
+
+![image](https://github.com/user-attachments/assets/60ee2e8d-2a29-4cd7-a35b-5c774cffda20)
+
